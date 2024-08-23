@@ -1,0 +1,14 @@
+pymupdf
+shapely
+langchain-community
+langchain_openai
+langchain_experimental
+torch
+IPython
+pymupdf4llm
+GeneralAgent  
+paddleocr
+paddlepaddle
+numpy
+fitz
+ollama
