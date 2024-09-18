@@ -5,26 +5,11 @@ import logging
 from IPython.display import HTML, display
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 import fitz  # PyMuPDF
-# from pymupdf import fitz
 import shapely.geometry as sg
 from shapely.geometry.base import BaseGeometry
 from shapely.validation import explain_validity
 import concurrent.futures
 import shutil
-
-# This Default Prompt Using Chinese and could be changed to other languages.
-
-DEFAULT_PROMPT = """使用markdown语法，将图片中识别到的文字转换为markdown格式输出。你必须做到：
-1. 输出和使用识别到的图片的相同的语言，例如，识别到英语的字段，输出的内容必须是英语。
-2. 不要解释和输出无关的文字，直接输出图片中的内容。例如，严禁输出 “以下是我根据图片内容生成的markdown文本：”这样的例子，而是应该直接输出markdown。
-3. 内容不要包含在```markdown ```中、段落公式使用 $$ $$ 的形式、行内公式使用 $ $ 的形式、忽略掉长直线、忽略掉页码。
-再次强调，不要解释和输出无关的文字，直接输出图片中的内容。
-"""
-DEFAULT_RECT_PROMPT = """图片中用红色框和名称(%s)标注出了一些区域。如果区域是表格或者图片，使用 ![]() 的形式插入到输出内容中，否则直接输出文字内容。
-"""
-DEFAULT_ROLE_PROMPT = """你是一个PDF文档解析器，使用markdown和latex语法输出图片的内容。
-"""
-
 
 def _is_near(rect1: BaseGeometry, rect2: BaseGeometry, distance: float = 5) -> bool:
     """
@@ -133,7 +118,7 @@ def _parse_rects(page,
 
 
 def _parse_pdf_to_images(pdf_path: str,
-                         output_dir: str = './',
+                         output_dir: str,
                          near_distance : float = 5,
                          horizontal_near_distance : float = 5,
                          merge_distance : float = 20,
@@ -146,6 +131,8 @@ def _parse_pdf_to_images(pdf_path: str,
     """
     # 打开PDF文件
     pdf_document = fitz.open(pdf_path)
+    number_of_pages = pdf_document.page_count
+    print(f"PDF頁數: {number_of_pages}")
     image_infos = []
     recs_info = []
     for page_index, page in enumerate(pdf_document):
@@ -179,27 +166,25 @@ def _parse_pdf_to_images(pdf_path: str,
         image_infos.append((page_image, rect_images))
 
     pdf_document.close()
-    return image_infos,recs_info
+    return image_infos,recs_info, number_of_pages
 
 
 def parse_pdf(
         pdf_path: str,
         output_dir: str = './pic',
-        verbose: bool = False,
         near_distance : float = 5,
         horizontal_near_distance : float = 5,
         merge_distance : float = 20,
         horizontal_merge_distance : Optional[float] = None,
         minimun_merge_size : int = 20,
         finance : bool = False,
-        page :bool = False, 
+        page :bool = False,
 ) -> Tuple[str, List[str]]:
     """
     Parse a PDF file to a markdown file.
     """
     # name = "tat_docs/" + "tttssshello" + ".pdf"
-    pdf_path_idef = pdf_path[len("tat_docs/"):-len(".pdf")]
-    print(pdf_path_idef)
+    pdf_path_idef = pdf_path[0:-len(".pdf")]
     output_dir = f"./pic/{pdf_path_idef}/"
     if not os.path.exists(output_dir):
         #若未存在則創建目錄
@@ -210,11 +195,29 @@ def parse_pdf(
         # 然後重新創建該目錄
         os.makedirs(output_dir)
 
-    image_infos,recs_info = _parse_pdf_to_images(pdf_path, output_dir=output_dir,near_distance = near_distance,horizontal_near_distance = horizontal_near_distance,merge_distance = merge_distance,horizontal_merge_distance=horizontal_merge_distance,minimun_merge_size=minimun_merge_size,finance=finance,pages = page)
+    image_infos,recs_info, number_of_pages = _parse_pdf_to_images(pdf_path, output_dir=output_dir,near_distance = near_distance,horizontal_near_distance = horizontal_near_distance,merge_distance = merge_distance,horizontal_merge_distance=horizontal_merge_distance,minimun_merge_size=minimun_merge_size,finance=finance,pages = page)
 
     all_rect_images = []
     # remove all rect images
-    if not verbose:
+    for page_image, rect_images in image_infos:
+        if os.path.exists(page_image):
+            os.remove(page_image)
+        all_rect_images.extend(rect_images)
+    
+
+
+    pattern = re.compile(r'_(\d+)\.png')
+    count_non_zero = sum(1 for filename in all_rect_images if pattern.search(filename).group(1) != '0')
+    #page預設是False，但如果發現都是截圖一整張的話則改為true
+    if (number_of_pages*0.8 <= len(all_rect_images) <= number_of_pages*1.2) and count_non_zero < len(all_rect_images)*0.03:
+        page = True
+        # 如果目錄已存在，刪除它及其所有內容
+        shutil.rmtree(output_dir)
+        # 然後重新創建該目錄
+        os.makedirs(output_dir)
+        image_infos,recs_info, number_of_pages = _parse_pdf_to_images(pdf_path, output_dir=output_dir,near_distance = near_distance,horizontal_near_distance = horizontal_near_distance,merge_distance = merge_distance,horizontal_merge_distance=horizontal_merge_distance,minimun_merge_size=minimun_merge_size,finance=finance,pages = True)
+        all_rect_images = []
+        # remove all rect images
         for page_image, rect_images in image_infos:
             if os.path.exists(page_image):
                 os.remove(page_image)

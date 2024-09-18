@@ -1,0 +1,283 @@
+
+image 1: 
+這張圖片顯示了一個Wikipedia頁面的舊版本，主題是Eleanor Tomlinson。上方有一個警告標示，說明這是2018年8月28日由ClueBot NG編輯的舊版本，並提到網站正在恢復可能的破壞性編輯。副標題中包含了Eleanor May Tomlinson的出生日期（1992年5月19日）以及她是一位英國女演員和模特的身份。 
+
+圖片中使用的語言是英語。
+
+end of image 1: 
+
+image 2: 
+The image contains information about Eleanor May Tomlinson, an English actress and singer, born on May 19, 1992, in London. She is known for her roles in:
+
+- Princess Isabelle in **Jack the Giant Slayer** (2013)
+- Isabel Neville in **The White Queen**
+- Demelza Poldark in **Poldark**
+
+### Early Life and Family
+- Raised in Beverley, East Riding of Yorkshire.
+- Attended Beverley High School.
+- Daughter of Judith Hibbert, a singer, and Malcolm Tomlinson, an actor and horse racing commentator. Her brother, Ross Tomlinson, is also an actor.
+
+### Career Highlights
+- Appeared in **The Illusionist** as Young Sophie.
+- Starred in **Angus, Thongs and Perfect Snogging**.
+- Played roles in **The Sarah Jane Adventures** and the film **Alice in Wonderland**.
+
+No non-English language text appears in the image.
+
+end of image 2: 
+[She starred in the TV series, The White Queen, as Lady Isabel Neville[[13]] and as Georgiana Darcy in the BBC](https://en.wikipedia.org/wiki/The_White_Queen_(TV_series))
+adaptation of _[Death Comes to Pemberley.[[14]] Since 2015, she has played Demelza Poldark in the BBC One](https://en.wikipedia.org/wiki/Death_Comes_to_Pemberley_(TV_series))_
+[television series Poldark.[[15]]](https://en.wikipedia.org/wiki/Poldark_(2015_TV_series))
+
+## Personal life
+
+Tomlinson was in relationship with Ben Atkinson from early 2015 until June 2017. She is a natural blonde, but
+dyes her hair red for the Poldark TV series as she thinks 'red suits my character better'.[[16]]
+
+## Filmography
+
+```html
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Year</th>
+            <th rowspan="2">Title</th>
+            <th colspan="3">Role</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2005</td>
+            <td>Falling</td>
+            <td>Little Daphne with Branklyn</td>
+        </tr>
+        <tr>
+            <td>2006</td>
+            <td>The Illusionist</td>
+            <td>Young Sophie</td>
+        </tr>
+        <tr>
+            <td>2007</td>
+            <td>Einstein and Eddington</td>
+            <td>Agnes Müller</td>
+        </tr>
+        <tr>
+            <td>2008</td>
+            <td>Angus, Thongs and Perfect Snogging</td>
+            <td>Jas</td>
+        </tr>
+        <tr>
+            <td>2009</td>
+            <td>The Sarah Jane Adventures</td>
+            <td>Eve</td>
+        </tr>
+        <tr>
+            <td>2010</td>
+            <td>Alice in Wonderland</td>
+            <td>Fiona Chataway</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>The Lost Future</td>
+            <td>Miru</td>
+        </tr>
+        <tr>
+            <td>2013</td>
+            <td>Siberian Education</td>
+            <td>Xenya</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Jack the Giant Slayer</td>
+            <td>Princess Isabelle</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>The White Queen</td>
+            <td>Isabel Neville, Duchess of Clarence</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Death Comes to Pemberley</td>
+            <td>Georgiana Darcy</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>The Labours of Hercules</td>
+            <td>Alice Cunningham</td>
+        </tr>
+        <tr>
+            <td>2014</td>
+            <td>The Curse of Styria</td>
+            <td>Lara</td>
+        </tr>
+        <tr>
+            <td>2015–present</td>
+            <td>Poldark</td>
+            <td>Demelza Poldark</td>
+        </tr>
+        <tr>
+            <td>2016</td>
+            <td>Alleycats</td>
+            <td>Danni</td>
+        </tr>
+        <tr>
+            <td>2017</td>
+            <td>Loving Vincent</td>
+            <td>Adeline Ravoux</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>Ordeal by Innocence</td>
+            <td>Mary Durrant (née Argyll)</td>
+        </tr>
+        <tr>
+            <td>2018</td>
+            <td>Colette</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Unreleased</td>
+            <td>Squadron 42 (Video Game)</td>
+            <td>Saic Rebecca Trejo</td>
+        </tr>
+        <tr>
+            <td>In production</td>
+            <td>The War of the Worlds</td>
+            <td>Amy</td>
+        </tr>
+    </tbody>
+</table>
+```
+
+
+ References
+
+[1. "Bev teen Eleanor stars in new Hollywood blockbuster Jack The Giant Killer" (https://web.archive.](https://web.archive.org/web/20130527081256/http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk)
+
+[org/web/20130527081256/http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-H](https://web.archive.org/web/20130527081256/http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk)
+[ollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk). Hull Daily Mail. 18](https://web.archive.org/web/20130527081256/http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk)
+[January 2012. Archived from the original (http://www.thisishullandeastriding.co.uk/Bev-teen-Elean](http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk)
+[or-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk) on 27 May](http://www.thisishullandeastriding.co.uk/Bev-teen-Eleanor-stars-new-Hollywood-blockbuster/story-14454843-detail/story.html#axzz2M9EtHlQk)
+
+
+-----
+
+[2013. Retrieved 28 February 2013. {{cite news}}: Unknown parameter |deadurl= ignored](https://en.wikipedia.org/wiki/Template:Cite_news)
+[(|url-status= suggested) (help)](https://en.wikipedia.org/wiki/Help:CS1_errors#parameter_ignored_suggest)
+
+[2. "The Racing Post – TV soap actor lands pounds 286,850 haul" (http://www.thefreelibrary.com/TV+](http://www.thefreelibrary.com/TV+soap+actor+lands+pounds+286,850+haul+thanks+to+Red+Marauder%3B...-a072945147)
+
+[soap+actor+lands+pounds+286,850+haul+thanks+to+Red+Marauder%3B...-a072945147).](http://www.thefreelibrary.com/TV+soap+actor+lands+pounds+286,850+haul+thanks+to+Red+Marauder%3B...-a072945147)
+Retrieved 30 October 2013.
+
+[3. "Why Beverley-born actor Malcolm Tomlinson is under starter's orders in his most racy role yet" (ht](https://web.archive.org/web/20150924031836/http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/story-16624361-detail/story.html)
+
+[tps://web.archive.org/web/20150924031836/http://www.hulldailymail.co.uk/Beverley-born-actor-Ma](https://web.archive.org/web/20150924031836/http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/story-16624361-detail/story.html)
+[lcolm-Tomlinson-starter/story-16624361-detail/story.html). Hull Daily Mail. 1 August 2012. Archived](https://web.archive.org/web/20150924031836/http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/story-16624361-detail/story.html)
+[from the original (http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/sto](http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/story-16624361-detail/story.html)
+[ry-16624361-detail/story.html) on 24 September 2015. Retrieved 30 October 2013. {{cite](http://www.hulldailymail.co.uk/Beverley-born-actor-Malcolm-Tomlinson-starter/story-16624361-detail/story.html)
+```
+  news}}: Unknown parameter |deadurl= ignored (|url-status= suggested) (help)
+
+```
+[4. "The Yorkshire Times Interviews Actor And Racing Commentator Malcolm Tomlinson" (http://yorks](http://yorkshiretimes.co.uk/article/The-Yorkshire-Times-Interviews-Actor-And-Racing-Commentator-Malcolm-Tomlinson)
+
+[hiretimes.co.uk/article/The-Yorkshire-Times-Interviews-Actor-And-Racing-Commentator-Malcolm-](http://yorkshiretimes.co.uk/article/The-Yorkshire-Times-Interviews-Actor-And-Racing-Commentator-Malcolm-Tomlinson)
+[Tomlinson). Yorkshire News. Retrieved 30 October 2013.](http://yorkshiretimes.co.uk/article/The-Yorkshire-Times-Interviews-Actor-And-Racing-Commentator-Malcolm-Tomlinson)
+
+[5. Walden, Celia (20 August 2016). "Poldark's Eleanor Tomlinson on Aidan Turner and why they can't](https://www.telegraph.co.uk/tv/2016/08/20/poldarks-eleanor-tomlinson-on-aidan-turner-and-why-they-cant-sto/)
+
+[stop laughing during sex scenes" (https://www.telegraph.co.uk/tv/2016/08/20/poldarks-eleanor-to](https://www.telegraph.co.uk/tv/2016/08/20/poldarks-eleanor-tomlinson-on-aidan-turner-and-why-they-cant-sto/)
+[mlinson-on-aidan-turner-and-why-they-cant-sto/). The Telegraph. Retrieved 3 April 2018.](https://www.telegraph.co.uk/tv/2016/08/20/poldarks-eleanor-tomlinson-on-aidan-turner-and-why-they-cant-sto/)
+
+[6. Hayes, Martha (9 March 2015). "5 Things We Learnt When We Chatted to Eleanor Tomlinson" (htt](http://www.marieclaire.co.uk/entertainment/tv-and-film/5-things-we-learnt-when-we-chatted-to-eleanor-tomlinson-105161)
+
+[p://www.marieclaire.co.uk/entertainment/tv-and-film/5-things-we-learnt-when-we-chatted-to-eleano](http://www.marieclaire.co.uk/entertainment/tv-and-film/5-things-we-learnt-when-we-chatted-to-eleanor-tomlinson-105161)
+[r-tomlinson-105161). marieclaire.co.uk. Retrieved 3 April 2018.](http://www.marieclaire.co.uk/entertainment/tv-and-film/5-things-we-learnt-when-we-chatted-to-eleanor-tomlinson-105161)
+
+[7. "Zweitausendeins. Filmlexikon FILME von A-Z - Hepzibah - Sie holt dich im Schlaf" (https://www.z](https://www.zweitausendeins.de/filmlexikon/?sucheNach=titel&wert=534851)
+
+[weitausendeins.de/filmlexikon/?sucheNach=titel&wert=534851). www.zweitausendeins.de (in](https://www.zweitausendeins.de/filmlexikon/?sucheNach=titel&wert=534851)
+German). Retrieved 3 April 2018.
+
+[8. "The Mad Woman in the Attic, Part 2, Series 3, The Sarah Jane Adventures - Credits" (https://ww](https://www.bbc.co.uk/programmes/b00nhv5q/credits)
+
+[w.bbc.co.uk/programmes/b00nhv5q/credits). bbc.co.uk. Retrieved 3 April 2018.](https://www.bbc.co.uk/programmes/b00nhv5q/credits)
+
+[9. "Interview - Eleanor Tomlinson: Eleanor in a wonderland of dream roles on the screen" (https://ww](https://www.yorkshirepost.co.uk/news/interview-eleanor-tomlinson-eleanor-in-a-wonderland-of-dream-roles-on-the-screen-1-2564171)
+
+[w.yorkshirepost.co.uk/news/interview-eleanor-tomlinson-eleanor-in-a-wonderland-of-dream-roles-](https://www.yorkshirepost.co.uk/news/interview-eleanor-tomlinson-eleanor-in-a-wonderland-of-dream-roles-on-the-screen-1-2564171)
+[on-the-screen-1-2564171). The Yorkshire Post. 4 March 2010. Retrieved 3 April 2018.](https://www.yorkshirepost.co.uk/news/interview-eleanor-tomlinson-eleanor-in-a-wonderland-of-dream-roles-on-the-screen-1-2564171)
+
+[10. Young, Deborah (2 March 2013). "Siberian Education (Educazione Siberiana): Film Review" (http](https://www.hollywoodreporter.com/review/siberian-education-educazione-siberiana-film-425713)
+
+[s://www.hollywoodreporter.com/review/siberian-education-educazione-siberiana-film-425713).](https://www.hollywoodreporter.com/review/siberian-education-educazione-siberiana-film-425713)
+_hollywoodreporter.com. Retrieved 3 April 2018._
+
+[11. McNary, Dave (1 March 2011). "Eleanor Tomlinson joins 'Killer' cast" (http://www.variety.com/articl](http://www.variety.com/article/VR1118033161?refCatId=4076&query=Jack+the+Giant+Killer)
+
+[e/VR1118033161?refCatId=4076&query=Jack+the+Giant+Killer). Variety. Retrieved 2 March](http://www.variety.com/article/VR1118033161?refCatId=4076&query=Jack+the+Giant+Killer)
+2011.
+
+[12. Fleming, Mike (1 March 2011). "Eleanor Tomlinson Lands 'Jack The Giant Killer' Female Lead" (htt](http://www.deadline.com/2011/03/eleanor-tomlinson-lands-jack-the-giant-killer-female-lead)
+
+[p://www.deadline.com/2011/03/eleanor-tomlinson-lands-jack-the-giant-killer-female-lead).](http://www.deadline.com/2011/03/eleanor-tomlinson-lands-jack-the-giant-killer-female-lead)
+_[Deadline Hollywood. Retrieved 4 June 2011.](https://en.wikipedia.org/wiki/Deadline_Hollywood)_
+
+[13. BBC Online. The White Queen, a new ten-part drama for BBC One, 10 January 2013. Latest](https://www.bbc.co.uk/mediacentre/latestnews/2012/white-queen.html)
+
+_[News (https://www.bbc.co.uk/mediacentre/latestnews/2012/white-queen.html)](https://www.bbc.co.uk/mediacentre/latestnews/2012/white-queen.html)_
+
+[14. Lazarus, Susanna (26 April 2015). "Why Eleanor Tomlinson is the real star of Poldark" (http://www.](http://www.radiotimes.com/news/2015-04-26/why-eleanor-tomlinson-is-the-real-star-of-poldark/)
+
+[radiotimes.com/news/2015-04-26/why-eleanor-tomlinson-is-the-real-star-of-poldark/). Radio](http://www.radiotimes.com/news/2015-04-26/why-eleanor-tomlinson-is-the-real-star-of-poldark/)
+_Times. Retrieved 3 April 2018._
+
+[15. "Meet the cast of Poldark" (http://www.radiotimes.com/news/2015-03-08/meet-the-cast-of-poldar](http://www.radiotimes.com/news/2015-03-08/meet-the-cast-of-poldark)
+
+[k). radiotimes.com. Retrieved 2 April 2018.](http://www.radiotimes.com/news/2015-03-08/meet-the-cast-of-poldark)
+
+[16. Vernon, Polly (27 May 2017). "Cornish Tease". The Times. p. 51. ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [0140-0460 (https://www.w](https://www.worldcat.org/issn/0140-0460)
+
+[orldcat.org/issn/0140-0460).](https://www.worldcat.org/issn/0140-0460)
+
+
+-----
+
+17. Billen, Andrew (31 March 2018). "Ordeal by Innocence: the Christie Mystery that almost got
+
+[away". The Times. No. 72497. Saturday Review. pp. 4–5. ISSN](https://en.wikipedia.org/wiki/ISSN_(identifier)) [0140-0460 (https://www.worldcat.](https://www.worldcat.org/issn/0140-0460)
+[org/issn/0140-0460).](https://www.worldcat.org/issn/0140-0460)
+
+[18. Star Citizen (22 December 2017). "Squadron 42: Pre-Alpha WIP Gameplay – Vertical Slice w/](https://www.youtube.com/watch?v=qcHAfaQh3QE&feature=youtu.be&t=1h5m28s)
+
+[Director's Commentary" (https://www.youtube.com/watch?v=qcHAfaQh3QE&feature=youtu.be&t=](https://www.youtube.com/watch?v=qcHAfaQh3QE&feature=youtu.be&t=1h5m28s)
+[1h5m28s). Retrieved 28 December 2017.](https://www.youtube.com/watch?v=qcHAfaQh3QE&feature=youtu.be&t=1h5m28s)
+
+[19. "Squadron 42 (Video Game 2018)" (https://www.imdb.com/title/tt5194726/fullcredits). Retrieved](https://www.imdb.com/title/tt5194726/fullcredits)
+
+28 December 2017.
+
+[20. "Filming begins..." (https://www.bbc.co.uk/mediacentre/latestnews/2018/war-of-the-worlds)](https://www.bbc.co.uk/mediacentre/latestnews/2018/war-of-the-worlds) _BBC_
+
+_media centre. Retrieved 29 April 2018._
+
+## External links
+
+[Eleanor Tomlinson (https://www.imdb.com/name/nm1870434/) at IMDb](https://www.imdb.com/name/nm1870434/)
+[Eleanor Tomlinson (https://www.allmovie.com/artist/p461494) at AllMovie](https://www.allmovie.com/artist/p461494)
+[Eleanor Tomlinson (https://www.rottentomatoes.com/celebrity/eleanor-tomlinson) at Rotten](https://www.rottentomatoes.com/celebrity/eleanor-tomlinson)
+[Tomatoes](https://en.wikipedia.org/wiki/Rotten_Tomatoes)
+
+[Retrieved from "https://en.wikipedia.org/w/index.php?title=Eleanor_Tomlinson&oldid=856938790"](https://en.wikipedia.org/w/index.php?title=Eleanor_Tomlinson&oldid=856938790)
+
+
+-----
+

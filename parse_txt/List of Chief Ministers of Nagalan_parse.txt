@@ -1,0 +1,291 @@
+
+image 1: 
+這張圖片顯示的是一個「納加蘭首席部長列表」的維基百科頁面。頁面上有舊版本的提示，指出這個版本是在2018年4月2日進行的編輯。它還提到該網址是指向這個修訂版本的永久鏈接，可能與當前版本存在顯著差異。
+
+語言：英語。
+
+end of image 1: 
+
+image 2: 
+The image contains information about the Chief Minister of Nagaland, an Indian state. Key points include:
+
+- **Position**: The Chief Minister is the chief executive of Nagaland.
+- **Authority**: While the governor is the de jure head, the de facto executive authority lies with the chief minister.
+- **Election Process**: After elections, the governor invites the party with a majority to form the government and appoints the chief minister, who is responsible to the legislative assembly.
+- **Term**: The chief minister serves a term of five years with no term limits.
+- **Current Incumbent**: Neiphiu Rio, in office since March 8, 2018.
+- **Historical Context**: The position was established on December 1, 1963, with P. Shilu Ao as the inaugural holder.
+
+The text in the image is predominantly in English.
+
+end of image 2: 
+Since 1963, ten people belonging to seven parties have served as Chief Minister of Nagaland. The first three
+[belonged to the Naga Nationalist Organisation, including the inaugural officeholder P. Shilu Ao. The current](https://en.wikipedia.org/w/index.php?title=Naga_Nationalist_Organisation&action=edit&redlink=1)
+[incumbent is Neiphiu Rio of the Nationalist Democratic Progressive Party, in office since 8 March 2018.](https://en.wikipedia.org/wiki/List_of_current_Indian_chief_ministers)
+
+```html
+<table>
+    <tr>
+        <th rowspan="2">List</th>
+        <th colspan="5">Col2</th>
+        <th rowspan="2">Col7</th>
+    </tr>
+    <tr>
+        <th>No[a]</th>
+        <th>Name</th>
+        <th>Term of office[2]</th>
+        <th>Party[b]</th>
+        <th>Days in office</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>P. Shilu Ao MLA for Impur</td>
+        <td>1 December 1963</td>
+        <td>14 August 1966</td>
+        <td>Naga Nationalist Organisation</td>
+        <td>987 days</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>T. N. Angami MLA for Western Angami</td>
+        <td>14 August 1966</td>
+        <td>22 February 1969</td>
+        <td></td>
+        <td>924 days</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Hokishe Sema MLA for Akuluto</td>
+        <td>22 February 1969</td>
+        <td>26 February 1974</td>
+        <td></td>
+        <td>1831 days</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Vizol Angami MLA for Southern Angami-II</td>
+        <td>26 February 1974</td>
+        <td>10 March 1975</td>
+        <td>United Democratic Front</td>
+        <td>378 days</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>John Bosco Jasokie MLA for Kohima Town</td>
+        <td>10 March 1975</td>
+        <td>20 March 1975</td>
+        <td>Naga National Democratic Party</td>
+        <td>11 days</td>
+    </tr>
+    <tr>
+        <td rowspan="2">–</td>
+        <td>Vacant[c] (President's rule)</td>
+        <td>20 March 1975</td>
+        <td>25 November 1977</td>
+        <td>N/A</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>(4)</td>
+        <td>Vizol Angami MLA for Southern Angami-II</td>
+        <td>25 November 1977</td>
+        <td>18 April 1980</td>
+        <td>United Democratic Front</td>
+        <td>876 days [Total 1254 days]</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>S. C. Jamir MLA for Aonglenden</td>
+        <td>18 April 1980</td>
+        <td>5 June 1980</td>
+        <td>United Democratic Front—Progressive</td>
+        <td>49 days</td>
+    </tr>
+    <tr>
+        <td rowspan="2">(5)</td>
+        <td>John Bosco Jasokie MLA for Kohima Town</td>
+        <td>5 June 1980</td>
+        <td>18 November 1982</td>
+        <td>Naga National Democratic Party</td>
+        <td>897 days [Total 908 days]</td>
+    </tr>
+    <tr>
+        <td>(6)</td>
+        <td>S. C. Jamir MLA for Aonglenden</td>
+        <td>18 November 1982</td>
+        <td>28 October 1986</td>
+        <td>United Democratic Front—Progressive</td>
+        <td>1440 days</td>
+    </tr>
+    <tr>
+        <td rowspan="2">(3)</td>
+        <td>Hokishe Sema</td>
+        <td>29 October 1986</td>
+        <td>7 August 1988</td>
+        <td>Indian National Congress</td>
+        <td>648 days [Total 2479 days]</td>
+    </tr>
+    <tr>
+        <td>–</td>
+        <td>Vacant[c] (President's rule)</td>
+        <td>7 August 1988</td>
+        <td>25 January 1989</td>
+        <td>N/A</td>
+        <td></td>
+    </tr>
+</table>
+```
+
+
+-----
+
+```html
+<table>
+    <tr>
+        <td rowspan="2">(6)</td>
+        <td rowspan="2">S. C. Jamir MLA for Mokokchung Town</td>
+        <td rowspan="2">25 January 1989</td>
+        <td rowspan="2">10 May 1990</td>
+        <td rowspan="2" style="background-color: Template:Indian National Congress/meta/color">Indian National Congress</td>
+        <td rowspan="2">471 days</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>7</td>
+        <td>K. L. Chishi MLA for Atoizu</td>
+        <td>16 May 1990</td>
+        <td>19 June 1990</td>
+        <td style="background-color: Template:Indian National Congress/meta/color">Indian National Congress</td>
+        <td>36 days</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Vamuzo Phesao</td>
+        <td>19 June 1990</td>
+        <td>2 April 1992</td>
+        <td>Nagaland People's Council</td>
+        <td>653 days</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>Vacant[c] (President's rule)</td>
+        <td>2 April 1992</td>
+        <td>22 February 1993</td>
+        <td>N/A</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">(6)</td>
+        <td rowspan="2">S. C. Jamir MLA for Aonglenden</td>
+        <td>22 February 1993</td>
+        <td>6 March 2003</td>
+        <td style="background-color: Template:Indian National Congress/meta/color">Indian National Congress</td>
+        <td>3665 days [Total 5625 days]</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>9</td>
+        <td>Neiphiu Rio MLA for Northern Angami-II</td>
+        <td>6 March 2003</td>
+        <td>3 January 2008</td>
+        <td>Nagaland People's Front</td>
+        <td>1767 days</td>
+    </tr>
+    <tr>
+        <td>-</td>
+        <td>Vacant[c] (President's rule)</td>
+        <td>3 January 2008</td>
+        <td>12 March 2008</td>
+        <td>N/A</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="2">(9)</td>
+        <td rowspan="2">Neiphiu Rio MLA for Northern Angami-II</td>
+        <td>12 March 2008</td>
+        <td>24 May 2014</td>
+        <td>Nagaland People's Front</td>
+        <td>2264 days</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>10</td>
+        <td>T. R. Zeliang MLA for Peren</td>
+        <td>24 May 2014</td>
+        <td>22 February 2017</td>
+        <td>Nagaland People's Front</td>
+        <td>1005 days</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Shurhozelie Liezietsu</td>
+        <td>22 February 2017</td>
+        <td>19 July 2017</td>
+        <td>N/A</td>
+        <td>147 days</td>
+    </tr>
+    <tr>
+        <td rowspan="2">(10)</td>
+        <td rowspan="2">T. R. Zeliang MLA for Peren</td>
+        <td>19 July 2017</td>
+        <td>8 March 2018</td>
+        <td>N/A</td>
+        <td>232 days [Total 1237 days]</td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>(9)</td>
+        <td>Neiphiu Rio MLA for Northern Angami-II</td>
+        <td>8 March 2018</td>
+        <td>Incumbent</td>
+        <td>Nationalist Democratic Progressive Party</td>
+        <td>2223 days</td>
+    </tr>
+</table>
+```
+
+
+## Notes
+
+**Footnotes**
+
+
+-----
+
+a. A number inside brackets indicates that the incumbent has previously held office.
+b. This column only names the chief minister's party. The state government he headed may have
+
+been a complex coalition of several parties and independents; these are not listed here.
+
+[c. President's rule may be imposed when the "government in a state is not able to function as per the](https://en.wikipedia.org/wiki/President%27s_rule)
+
+Constitution", which often happens because no party or coalition has a majority in the assembly.
+When President's rule is in force in a state, its council of ministers stands dissolved. The office of
+chief minister thus lies vacant, and the administration is taken over by the governor, who functions
+on behalf of the central government. At times, the legislative assembly also stands dissolved.[[3]]
+
+**References**
+
+[1. Durga Das Basu. Introduction to the Constitution of India. 1960. 20th Edition, 2011 Reprint. pp.](https://en.wikipedia.org/wiki/Durga_Das_Basu)
+
+[241, 245. LexisNexis Butterworths Wadhwa Nagpur. ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-81-8038-559-9. Note: although the](https://en.wikipedia.org/wiki/Special:BookSources/978-81-8038-559-9)
+text talks about Indian state governments in general, it applies for the specific case of Nagaland as
+well.
+
+[2. "General Information, Nagaland" (http://iprngl.nic.in/general-info.htm). Information & Public](http://iprngl.nic.in/general-info.htm)
+
+Relations department, Nagaland government.
+
+[3. Amberish K. Diwanji. "A dummy's guide to President's rule (http://www.rediff.co.in/news/2005/mar/](http://www.rediff.co.in/news/2005/mar/15spec1.htm)
+
+[15spec1.htm)". Rediff.com. 15 March 2005.](http://www.rediff.co.in/news/2005/mar/15spec1.htm)
+
+## External links
+
+[States of India since 1947 (http://www.worldstatesmen.org/India_states.html)](http://www.worldstatesmen.org/India_states.html)
+
+[Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_chief_ministers_of_Nagaland&oldid=833760339"](https://en.wikipedia.org/w/index.php?title=List_of_chief_ministers_of_Nagaland&oldid=833760339)
+
+
+-----
+

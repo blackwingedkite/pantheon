@@ -1,0 +1,424 @@
+
+ocr table: 
+```html
+<table>
+    <tr>
+        <td colspan="3">UNITED STATES SECURITIES AND EXCHANGE COMMISSION</td>
+    </tr>
+    <tr>
+        <td colspan="3">Washington, D.C. 20549</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Form 10-K</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2">(Mark One)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>☑ <strong>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</strong></td>
+        <td>For the fiscal year ended January 31, 2020</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>☐ <strong>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</strong></td>
+        <td>For the transition period from</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3">Commission File Number 001-33622</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>VMWARE, INC.</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3">(Exact name of registrant as specified in its charter)</td>
+    </tr>
+    <tr>
+        <td>Delaware</td>
+        <td>94-3292913</td>
+        <td>(State or other jurisdiction of incorporation or organization)</td>
+    </tr>
+    <tr>
+        <td>3401 Hillview Avenue</td>
+        <td>(I.R.S. Employer Identification Number)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Palo Alto, CA</td>
+        <td>94304</td>
+        <td>(Address of principal executive offices) (Zip Code)</td>
+    </tr>
+    <tr>
+        <td>(650) 427-5000</td>
+        <td colspan="2">(Registrant’s telephone number, including area code)</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Securities registered pursuant to Section 12(b) of the Act:</strong></td>
+    </tr>
+    <tr>
+        <td>Title of each class</td>
+        <td>Trading Symbol(s)</td>
+        <td>Name of each exchange on which registered</td>
+    </tr>
+    <tr>
+        <td>Class A common stock</td>
+        <td>VMW</td>
+        <td>New York Stock Exchange</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Securities registered pursuant to Section 12(g) of the Act: None</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by a check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☑</td>
+        <td>No ☐</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☐</td>
+        <td>No ☑</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months...</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☑</td>
+        <td>No ☐</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by check mark whether the registrant has submitted electronically every Interactive Data File...</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☑</td>
+        <td>No ☐</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.</strong></td>
+    </tr>
+    <tr>
+        <td>Large accelerated filer ☑</td>
+        <td>Accelerated filer ☐</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Non-accelerated filer ☐</td>
+        <td>Smaller reporting company ☐</td>
+        <td>Emerging growth company ☐</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period...</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☐</td>
+        <td>No ☐</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>Indicate by check mark whether the registrant is a shell company...</strong></td>
+    </tr>
+    <tr>
+        <td>Yes ☐</td>
+        <td>No ☑</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td colspan="3">At August 2, 2019, the aggregate market value of the registrant’s Class A common stock...</td>
+    </tr>
+    <tr>
+        <td colspan="3">As of March 17, 2020, the number of shares of common stock...</td>
+    </tr>
+    <tr>
+        <td colspan="3"><strong>DOCUMENTS INCORPORATED BY REFERENCE</strong></td>
+    </tr>
+    <tr>
+        <td colspan="3">Information required in response to Part III of Form 10-K...</td>
+    </tr>
+</table>
+```
+
+end of ocr table
+## UNITED STATES
+ SECURITIES AND EXCHANGE COMMISSION
+
+**Washington, D.C. 20549**
+
+## Form 10-K
+
+**(Mark One)**
+
+☑ **ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF**
+**1934**
+
+**For the fiscal year ended January 31, 2020**
+
+**OR**
+
+☐ **TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT**
+**OF 1934**
+
+**For the transition period      from      to**
+
+**Commission File Number 001-33622**
+
+_______________________________________________________
+
+# VMWARE, INC.
+
+**(Exact name of registrant as specified in its charter)**
+
+_______________________________________________________
+
+**Delaware** **94-3292913**
+
+
+**(State or other jurisdiction of**
+
+**incorporation or organization)**
+
+**3401 Hillview Avenue**
+
+
+**(I.R.S. Employer**
+
+**Identification Number)**
+
+
+**Palo Alto, CA** **94304**
+
+**(Address of principal executive offices)** **(Zip Code)**
+
+**(650) 427-5000**
+
+**(Registrant’s telephone number, including area code)**
+
+_____________________________________________________
+
+**Securities registered pursuant to Section 12(b) of the Act:**
+
+**Title of each class** **Trading Symbol(s)** **Name of each exchange on which registered**
+
+**Class A common stock** **VMW** **New York Stock Exchange**
+
+**Securities registered pursuant to Section 12(g) of the Act: None**
+
+Indicate by a check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.   Yes ☑  No o
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.   Yes ☐  No ☑
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☑  No ☐
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this
+
+chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☑  No ☐
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the
+
+definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer ☑ Accelerated filer ☐
+
+Non-accelerated filer ☐ Smaller reporting company ☐
+
+Emerging growth company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+
+standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐  No ☑
+
+At August 2, 2019, the aggregate market value of the registrant’s Class A common stock held by non-affiliates of the registrant (based upon the closing sale price of such shares on the
+
+New York Stock Exchange on August 2, 2019) was approximately $12.7 billion. Shares of the registrant’s Class A common stock and Class B common stock held by each executive officer and
+director and by each entity or person, other than investment companies, that, to the registrant’s knowledge, owned 5% or more of the registrant’s outstanding Class A common stock as of
+August 2, 2019 have been excluded in that such persons may be deemed to be affiliates of the registrant. This determination of affiliate status is not necessarily a conclusive determination for
+other purposes.
+
+As of March 17, 2020, the number of shares of common stock, par value $0.01 per share, of the registrant outstanding was 418,009,379, of which 110,787,543 shares were Class A
+
+common stock and 307,221,836 were Class B common stock.
+
+**DOCUMENTS INCORPORATED BY REFERENCE**
+
+Information required in response to Part III of Form 10-K (Items 10, 11, 12, 13 and 14) is hereby incorporated by reference to portions of the registrant’s Proxy Statement for the Annual
+
+Meeting of Stockholders to be held in 2020. The Proxy Statement will be filed by the registrant with the Securities and Exchange Commission no later than 120 days after the end of the
+registrant’s fiscal year ended January 31, 2020.
+
+
+-----
+
+
+ocr table: 
+```html
+<table>
+    <tr>
+        <th>Item</th>
+        <th>Page</th>
+    </tr>
+    <tr>
+        <td rowspan="4">PART I</td>
+        <td>1. Business</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>1A. Risk Factors</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td>1B. Unresolved Staff Comments</td>
+        <td>35</td>
+    </tr>
+    <tr>
+        <td>2. Properties</td>
+        <td>35</td>
+    </tr>
+    <tr>
+        <td rowspan="8">PART II</td>
+        <td>3. Legal Proceedings</td>
+        <td>36</td>
+    </tr>
+    <tr>
+        <td>5. Market for Registrant’s Common Equity...</td>
+        <td>37</td>
+    </tr>
+    <tr>
+        <td>6. Selected Financial Data</td>
+        <td>39</td>
+    </tr>
+    <tr>
+        <td>7. Management’s Discussion...</td>
+        <td>40</td>
+    </tr>
+    <tr>
+        <td>7A. Quantitative and Qualitative Disclosures...</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>8. Financial Statements and Supplementary Data</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>9. Changes in Disagreements with Accountants...</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>9B. Other Information</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td rowspan="5">PART III</td>
+        <td>10. Directors, Executive Officers and Corporate Governance</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>11. Executive Compensation</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>12. Security Ownership of Certain Beneficial Owners...</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>13. Certain Relationships and Related Transactions...</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>14. Principal Accounting Fees and Services</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td rowspan="3">PART IV</td>
+        <td>15. Exhibits, Financial Statement Schedules</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>16. Form 10-K Summary</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>Signatures</td>
+        <td>118</td>
+    </tr>
+</table>
+```
+
+end of ocr table
+**TABLE OF CONTENTS**
+
+**PART I**
+
+
+**Page**
+
+
+Item 1. Business 4
+
+Item 1A. Risk Factors 14
+
+Item 1B. Unresolved Staff Comments 35
+
+Item 2. Properties 35
+
+Item 3. Legal Proceedings 36
+
+Item 4. Mine Safety Disclosures 36
+
+**PART II**
+
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 37
+
+Item 6. Selected Financial Data 39
+
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 40
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 58
+
+Item 8. Financial Statements and Supplementary Data 60
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 112
+
+Item 9A. Controls and Procedures 112
+
+Item 9B. Other Information 113
+
+**PART III**
+
+Item 10. Directors, Executive Officers and Corporate Governance 114
+
+Item 11. Executive Compensation 114
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management, and Related Stockholder Matters 114
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 114
+
+Item 14. Principal Accounting Fees and Services 114
+
+**PART IV**
+
+Item 15. Exhibits, Financial Statement Schedules 115
+
+Item 16. Form 10-K Summary 117
+
+Signatures 118
+
+VMware, Pivotal, vSphere, VMware Cloud, vRealize. Wavefront, CloudHealth, Carbon Black, NSX, VeloCloud, AppDefense, Avi Networks,
+
+VMware vSAN, vCloud, vCloud NFV, Pivotal Labs, Heptio, Tanzu, vCenter, Workspace ONE, Horizon, VMworld, vMotion, AirWatch, ESX, Bitnami,
+Nyansa, VMware Foundation, AetherPal, and vCloud Air are registered trademarks or trademarks of VMware or its subsidiaries in the United States and
+other jurisdictions. All other marks and names mentioned herein may be trademarks of their respective companies.
+
+
+-----
+
